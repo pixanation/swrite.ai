@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+pydantic-settings
+python-multipart
+requests
+# Phase 2 Dependencies
+pypdf
+Pillow
+opencv-python-headless
+numpy
+google-cloud-vision
+pdf2image
+openai
